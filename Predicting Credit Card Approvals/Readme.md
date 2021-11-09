@@ -9,6 +9,7 @@ Dataset: Credit Approval Data Set(http://archive.ics.uci.edu/ml/datasets/credit+
 -
 
 Steps:
+-
 1) First, we will start off by loading and viewing the dataset.
 2) We will see that the dataset has a mixture of both numerical and non-numerical features, that it contains values from different ranges, plus that it contains a number of missing entries.
 3) We will have to preprocess the dataset to ensure the machine learning model we choose can make good predictions.
