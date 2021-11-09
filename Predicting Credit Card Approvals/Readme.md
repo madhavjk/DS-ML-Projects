@@ -1,4 +1,4 @@
-# Project: To build an automatic credit card approval predictor using machine learning techniques, just like the real banks do. 
+ Project: To build an automatic credit card approval predictor using machine learning techniques, just like the real banks do. 
 
 
    ![image](https://user-images.githubusercontent.com/42112240/140858091-62871d2e-f270-4976-9c66-c4d70d642578.png)
