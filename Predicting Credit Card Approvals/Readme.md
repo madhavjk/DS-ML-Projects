@@ -2,7 +2,7 @@
  -
 
 
-   ![image](https://user-images.githubusercontent.com/42112240/140858091-62871d2e-f270-4976-9c66-c4d70d642578.png)
+  ![image](https://user-images.githubusercontent.com/42112240/140858345-2d8fd8c2-b7ee-44a3-b36b-ee054ec3c99c.png)
 
 
 Dataset: Credit Approval Data Set(http://archive.ics.uci.edu/ml/datasets/credit+approval)
