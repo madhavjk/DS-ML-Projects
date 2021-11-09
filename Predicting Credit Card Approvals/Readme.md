@@ -1,8 +1,11 @@
-Project: To build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.
-![image](https://user-images.githubusercontent.com/42112240/140857939-1cdb24db-9f1d-4141-b78d-66da374b9717.png)
+# Project: To build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.
+
+
+![image](https://user-images.githubusercontent.com/42112240/140858091-62871d2e-f270-4976-9c66-c4d70d642578.png)
 
 
 Dataset: Credit Approval Data Set(http://archive.ics.uci.edu/ml/datasets/credit+approval)
+--
 
 Steps:
 1) First, we will start off by loading and viewing the dataset.
