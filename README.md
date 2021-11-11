@@ -1,4 +1,4 @@
-# DS-ML-Projec
+# DS-ML-Projects
 
 A collection of selected data science/ML projects to demonstrate skill sets, knowledge, and what I find interesting
 
